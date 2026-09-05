@@ -36,6 +36,8 @@ pnpm approve-builds
 
 Select `esbuild` with Space, press Enter, then rerun `pnpm install`.
 
+On Windows you can skip the terminal: double-click [`run.bat`](run.bat). It pulls the latest changes, installs dependencies, starts the dev server, and opens the app in your default browser. Close the window to stop the server.
+
 ## Sections
 
 ### 1. Simple Chat — Pattern Matching
